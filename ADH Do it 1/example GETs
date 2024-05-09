@@ -1,0 +1,537 @@
+{
+    "GET_week_example":
+    {
+        "mondayDate": "Mon Mar 18 2024",
+        "week":
+        {
+            "templateId": 0,
+            "name": "exam week",
+            "description": "study",
+            "days":
+            [
+                {
+                    "templateId": 0,
+                    "name": "ex day name",
+                    "description": "ex day desc",
+                    "blocks":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "monday block example",
+                            "description": "monday block example",
+                            "start": "",
+                            "end": "21.00"
+                        }
+                    ],
+                    "interruptions":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "example interrupt",
+                            "description": "inter desc",
+                            "start": "10:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "templateId": 1,
+                    "name": "",
+                    "description": "",
+                    "blocks":
+                    [
+                    ],
+                    "interruptions":
+                    [
+                    ]
+                },
+                {
+                    "templateId": 0,
+                    "name": "ex day name",
+                    "description": "ex day desc",
+                    "blocks":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "wednesday block example",
+                            "description": "wednesday block example",
+                            "start": "",
+                            "end": "21.00"
+                        }
+                    ],
+                    "interruptions":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "example interrupt",
+                            "description": "inter desc",
+                            "start": "10:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "templateId": 0,
+                    "name": "ex day name",
+                    "description": "ex day desc",
+                    "blocks":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "thursday block example",
+                            "description": "thursday block example",
+                            "start": "",
+                            "end": "21.00"
+                        }
+                    ],
+                    "interruptions":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "example interrupt",
+                            "description": "inter desc",
+                            "start": "10:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "templateId": 0,
+                    "name": "ex day name",
+                    "description": "ex day desc",
+                    "blocks":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "friday block example",
+                            "description": "friday block example",
+                            "start": "",
+                            "end": "21.00"
+                        }
+                    ],
+                    "interruptions":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "example interrupt",
+                            "description": "inter desc",
+                            "start": "10:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "templateId": 0,
+                    "name": "ex day name",
+                    "description": "ex day desc",
+                    "blocks":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "saturday block example",
+                            "description": "saturday block example",
+                            "start": "",
+                            "end": "21.00"
+                        }
+                    ],
+                    "interruptions":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "example interrupt",
+                            "description": "inter desc",
+                            "start": "10:00",
+                            "end": "16:00"
+                        }
+                    ]
+                },
+                {
+                    "templateId": 0,
+                    "name": "ex day name",
+                    "description": "ex day desc",
+                    "blocks":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "sunday block example",
+                            "description": "sunday block example",
+                            "start": "",
+                            "end": "21.00"
+                        }
+                    ],
+                    "interruptions":
+                    [
+                        {
+                            "templateId": 0,
+                            "name": "example interrupt",
+                            "description": "inter desc",
+                            "start": "10:00",
+                            "end": "16:00"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "GET_Weeks_example":
+    {
+        "firstMondayDate": "Mon Mar 18 2024",
+        "weeks":
+        [
+            {
+                "templateId": 0,
+                "name": "exam week",
+                "description": "study",
+                "days":
+                [
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "monday block example",
+                                "description": "monday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 1,
+                        "name": "",
+                        "description": "",
+                        "blocks":
+                        [
+                        ],
+                        "interruptions":
+                        [
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "wednesday block example",
+                                "description": "wednesday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "thursday block example",
+                                "description": "thursday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "friday block example",
+                                "description": "friday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "saturday block example",
+                                "description": "saturday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "sunday block example",
+                                "description": "sunday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "templateId": 0,
+                "name": "after exam week",
+                "description": "study not",
+                "days":
+                [
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "monday block example",
+                                "description": "monday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 1,
+                        "name": "",
+                        "description": "",
+                        "blocks":
+                        [
+                        ],
+                        "interruptions":
+                        [
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "wednesday block example",
+                                "description": "wednesday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "thursday block example",
+                                "description": "thursday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "friday block example",
+                                "description": "friday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "saturday block example",
+                                "description": "saturday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    },
+                    {
+                        "templateId": 0,
+                        "name": "ex day name",
+                        "description": "ex day desc",
+                        "blocks":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "sunday block example",
+                                "description": "sunday block example",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ],
+                        "interruptions":
+                        [
+                            {
+                                "templateId": 0,
+                                "name": "example interrupt",
+                                "description": "inter desc",
+                                "start": "10:00",
+                                "end": "16:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "getMonthExample":
+    {
+        "month": "Jan",
+        "firstMondayDate": "Mon Mar 18 2024",
+        "weeks":
+        [
+        ]
+    },
+    "getYearExample":
+    {
+        "year": 2024,
+        "firstMondayDate":"Mon Mar 18 2024",
+        "weeks":
+        [
+        ]
+    }
+}

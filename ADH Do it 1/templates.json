@@ -1,0 +1,149 @@
+{
+    "weekTemplates":
+    [
+        {
+            "Id": 1,
+            "name": "dummy template",
+            "description": "dummy template desc",
+            "createdAt": "Mon Mar 18 2024 20:31:14 GMT+0300 (GMT+03:00)",
+            "week":
+            {
+                "name": "exam week temp",
+                "description": "study pls",
+                "days":
+                [
+                    {
+                        "name": "temp day name",
+                        "description": "temp day desc",
+                        "blocks":
+                        [
+                            {
+                                "name": "monday block",
+                                "description": "monday block",
+                                "start": "",
+                                "end": "21.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "temp day name",
+                        "description": "temp day desc",
+                        "blocks":
+                        [
+                            {
+                                "name": "tuesday block",
+                                "description": "tuesday block",
+                                "start": "08:00",
+                                "end": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "temp day name",
+                        "description": "temp day desc",
+                        "blocks":
+                        [
+                            {
+                                "name": "wednesday block",
+                                "description": "wednesday block",
+                                "start": "14:00",
+                                "end": "15:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "temp day name",
+                        "description": "temp day desc",
+                        "blocks":
+                        [
+                            {
+                                "name": "thursday block",
+                                "description": "thursday block",
+                                "start": "09:00",
+                                "end": "10:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "temp day name",
+                        "description": "temp day desc",
+                        "blocks":
+                        [
+                            {
+                                "name": "friday block",
+                                "description": "friday block",
+                                "start": "11:00",
+                                "end": "18:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "temp day name",
+                        "description": "temp day desc",
+                        "blocks":
+                        [
+                            {
+                                "name": "saturday block",
+                                "description": "saturday block",
+                                "start": "",
+                                "end": "18:00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "temp day name",
+                        "description": "temp day desc",
+                        "blocks":
+                        [
+                            {
+                                "name": "sunday block",
+                                "description": "sunday block",
+                                "start": "11:00",
+                                "end": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "dayTemplates":
+    [
+        {
+            "Id": 1,
+            "name": "day template",
+            "description": "day template desc",
+            "createdAt": "Mon Mar 18 2024 20:31:14 GMT+0300 (GMT+03:00)",
+            "day":
+            {
+                "name": "temp day name",
+                "description": "temp day desc",
+                "blocks":
+                [
+                    {
+                        "name": "day block",
+                        "description": "day block",
+                        "start": "05:00",
+                        "end": "06.00"
+                    }
+                ]
+            }
+        }
+    ],
+    "blockTemplates":
+    [
+        {
+            "Id": 1,
+            "name": "block template",
+            "description": "block template desc",
+            "createdAt": "Mon Mar 18 2024 20:31:14 GMT+0300 (GMT+03:00)",
+            "block":
+            {
+                "name": "temp block",
+                "description": "temp block",
+                "start": "05:00",
+                "end": "06.00"
+            }
+        }
+    ]
+}
